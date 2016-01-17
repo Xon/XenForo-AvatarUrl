@@ -1,5 +1,4 @@
-Xenforo-SVAvatarUrl
-======================
+# Xenforo-AvatarUrl
 
 Rewrites Avatar URLS to be more cache friendly by moving the timestamp from a query string parameter to part of the URL. 
 
